@@ -1,0 +1,4 @@
+[27-Feb-2023 12:12:53 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function buscaConsultasAsc() in /home4/glsoftst/public_html/Pakan/vista/pdf/historialpdf.php:35
+Stack trace:
+#0 {main}
+  thrown in /home4/glsoftst/public_html/Pakan/vista/pdf/historialpdf.php on line 35
